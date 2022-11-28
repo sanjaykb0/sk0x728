@@ -1,4 +1,3 @@
-# I'm SK.
 ## co-founder & dev @quadrentech
 - I code in js, rust, python, c++ and dart.
 <!---
